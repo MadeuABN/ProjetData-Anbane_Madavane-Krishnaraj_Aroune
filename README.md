@@ -14,3 +14,8 @@ Notre notebook contient 5 graphiques portant sur le réchauffement climatique.
 La problématique posée est la suivante :      Quelles sont les causes et les conséquences du réchauffement climatique ?
 
 Nous répondons à cette problématique en faisant des graphiques, en expliquant  et proposant des solutions.
+
+
+Problème rencontré = Demiliter en US , il faut mettre en EU ce qui nous a empêcher de faire du machine learning
+Streamlit , on a pas réussi à déployer l'application.
+
