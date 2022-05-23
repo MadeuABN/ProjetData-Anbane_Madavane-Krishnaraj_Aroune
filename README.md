@@ -5,4 +5,4 @@ Le projet a été fait à 2 :  ANBANE Madavane -  Élaboration des graphiques
                             
 
 Au départ nous avons choisi le sujet des voitures mais il n'est pas adapté à des problématiques etc
-Nous nous sommes donc tourné vers le réchauffement climatique, sujet qui est important et au coeur de nombreuse problématiques.
+Nous nous sommes donc tournés vers le réchauffement climatique, sujet qui est important et au coeur de nombreuses problématiques.
